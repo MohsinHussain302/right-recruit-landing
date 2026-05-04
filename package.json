@@ -25,7 +25,7 @@
     "postcss": "^8.4.49",
     "tailwindcss": "^3.4.15",
     "vite": "^5.4.11"
-  }
+  },
   "homepage": "https://mohsinhussain302.github.io/right-recruit-landing/",
   "scripts": {
     "predeploy": "npm run build",
